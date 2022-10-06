@@ -6,3 +6,13 @@ html, body {
   background: red;
   color: black;
 }
+
+.social .btn{
+  display: inline-block;  
+}
+
+.social .btn a{
+  text-decoration: none;
+  color:black;
+  font-size: 18px;
+}
