@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
-.btn{
+/* .btn{
   background: red;
   color: black;
 }
@@ -15,4 +15,13 @@ html, body {
   text-decoration: none;
   color:black;
   font-size: 18px;
+} */
+
+.bulb{ 
+  background: yellow;
+}
+
+ .bulbcontainer{
+  height: 341px;
+  width: 341px; 
 }
